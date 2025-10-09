@@ -14,6 +14,6 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
-        .binaryTarget(name: "PushAlert", url: "https://github.com/InkWired/pushalert-ios-sdk/releases/download/v0.0.91/PushAlert.xcframework.zip", checksum: "d0b707201a7b05b3aa4cea2a125ec549030e8adcb9d57d941df39ea6fdec8576")
+        .binaryTarget(name: "PushAlert", url: "https://github.com/InkWired/pushalert-ios-sdk/releases/download/v0.0.95/PushAlert.xcframework.zip", checksum: "5236ea0439c937a26c8ce9193de04707092ea9dc45b5bff3e158f39e6568cf25")
     ]
 )
